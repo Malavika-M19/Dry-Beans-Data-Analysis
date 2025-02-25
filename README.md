@@ -22,7 +22,7 @@ The features are:
 - **ShapeFactor3**  
 - **ShapeFactor4**
 
-**Workflow of this project:**
+**Workflow of this project:**  
 🛒Data Loading  
 🩺Handling Skweness  
 🩺Handling Outliers  
@@ -39,6 +39,6 @@ The features are:
 🗂Model Saving  
 🔎Test with unseen data  
 
-Meachine Learning Models Trainded: [Logistic Regression, Ridge Classification, Support Vector Machine, K-Nearest Neighbours, Gradient Booster, Random Forest]
+Meachine Learning Models Trainded: Logistic Regression, Ridge Classification, Support Vector Machine, K-Nearest Neighbours, Gradient Booster, Random Forest
 
 
